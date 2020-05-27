@@ -4,11 +4,8 @@ The Panda robot is the flagship MoveIt! integration robot used in the MoveIt! tu
 Any changes to MoveIt! need to be propagated into this config fast, so this package
 is co-located under the ``ros-planning`` Github organization here.
 
-## Acknowledgement 
+Modification were made for for integrating MoveIt! with Gazebo
 
-Changes made to package by ``erdalpekel`` for integrating MoveIt! with Gazebo
+## Installations
 
-- panda_moveit_config/config/panda_controllers.yaml
-- panda_moveit_config/config/panda_gripper_controllers.yaml
-- panda_moveit_config/launch/moveit.rviz
-
+This is a part of the Panda Simulation Environment. Kindly follow steps in [panda_simulation](https://github.com/SnehalD14/panda_simulation)
